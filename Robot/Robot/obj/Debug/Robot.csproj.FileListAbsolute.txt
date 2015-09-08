@@ -1,0 +1,16 @@
+C:\Users\terence\Documents\Projects\Robot\Robot\bin\Debug\Robot.dll
+C:\Users\terence\Documents\Projects\Robot\Robot\bin\Debug\Robot.pdb
+C:\Users\terence\Documents\Projects\Robot\Robot\bin\Debug\Robot.Robot.apk
+C:\Users\terence\Documents\Projects\Robot\Robot\bin\Debug\Robot.Robot-Signed.apk
+C:\Users\terence\Documents\Projects\Robot\Robot\obj\Debug\Robot.dll
+C:\Users\terence\Documents\Projects\Robot\Robot\obj\Debug\Robot.pdb
+C:\Users\terence\Documents\Projects\Robot\Robot\obj\Debug\android\bin\Robot.Robot.apk
+C:\Users\terence\Documents\Projects\Robot\Robot\obj\Debug\res\layout\main.xml
+C:\Users\terence\Documents\Projects\Robot\Robot\obj\Debug\res\values\strings.xml
+C:\Users\terence\Documents\Projects\Robot\Robot\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\terence\Documents\Projects\Robot\Robot\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\terence\Documents\Projects\Robot\Robot\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\terence\Documents\Projects\Robot\Robot\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\terence\Documents\Projects\Robot\Robot\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\terence\Documents\Projects\Robot\Robot\obj\Debug\R.cs.flag
+C:\Users\terence\Documents\Projects\Robot\Robot\obj\Debug\uploadflags.txt

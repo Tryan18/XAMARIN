@@ -1,0 +1,4 @@
+Robot.MainActivity, Robot;md536d8e5045c388c4de9a0ea29890af58d.MainActivity
+Robot.MainActivity, Robot, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md536d8e5045c388c4de9a0ea29890af58d.MainActivity
+Robot.MainActivity;md536d8e5045c388c4de9a0ea29890af58d.MainActivity
+robot.MainActivity;md536d8e5045c388c4de9a0ea29890af58d.MainActivity

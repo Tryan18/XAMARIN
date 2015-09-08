@@ -1,0 +1,4 @@
+ConsoleOutput.MainActivity, ConsoleOutput;md5d6af748000cef0673b2cb6b14db22fa3.MainActivity
+ConsoleOutput.MainActivity, ConsoleOutput, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d6af748000cef0673b2cb6b14db22fa3.MainActivity
+ConsoleOutput.MainActivity;md5d6af748000cef0673b2cb6b14db22fa3.MainActivity
+consoleoutput.MainActivity;md5d6af748000cef0673b2cb6b14db22fa3.MainActivity

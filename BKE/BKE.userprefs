@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="BKE\BKE.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BKE\BKE_Activity.cs">
+    <Files>
+      <File FileName="BKE\MainActivity.cs" Line="29" Column="41" />
+      <File FileName="BKE\Resources\values\Strings.xml" Line="3" Column="28" />
+      <File FileName="BKE\BKE_Activity.cs" Line="39" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BKE AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

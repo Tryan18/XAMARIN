@@ -1,0 +1,17 @@
+C:\Users\terence\Documents\Projects\BKE\BKE\bin\Debug\BKE.dll
+C:\Users\terence\Documents\Projects\BKE\BKE\bin\Debug\BKE.pdb
+C:\Users\terence\Documents\Projects\BKE\BKE\bin\Debug\com.companyname.bke.apk
+C:\Users\terence\Documents\Projects\BKE\BKE\bin\Debug\com.companyname.bke-Signed.apk
+C:\Users\terence\Documents\Projects\BKE\BKE\obj\Debug\BKE.dll
+C:\Users\terence\Documents\Projects\BKE\BKE\obj\Debug\BKE.pdb
+C:\Users\terence\Documents\Projects\BKE\BKE\obj\Debug\android\bin\com.companyname.bke.apk
+C:\Users\terence\Documents\Projects\BKE\BKE\obj\Debug\res\layout\main.xml
+C:\Users\terence\Documents\Projects\BKE\BKE\obj\Debug\res\values\strings.xml
+C:\Users\terence\Documents\Projects\BKE\BKE\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\terence\Documents\Projects\BKE\BKE\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\terence\Documents\Projects\BKE\BKE\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\terence\Documents\Projects\BKE\BKE\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\terence\Documents\Projects\BKE\BKE\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\terence\Documents\Projects\BKE\BKE\obj\Debug\res\layout\bke_layout.xml
+C:\Users\terence\Documents\Projects\BKE\BKE\obj\Debug\R.cs.flag
+C:\Users\terence\Documents\Projects\BKE\BKE\obj\Debug\uploadflags.txt

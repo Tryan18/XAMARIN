@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Robot\Robot.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 7 (Jelly Bean)" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Robot\MainActivity.cs" Line="41" Column="50" />
+      <File FileName="Robot\Resources\Robot.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Robot AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

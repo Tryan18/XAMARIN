@@ -1,0 +1,8 @@
+BKE.MainActivity, BKE;md50e12ee4bd292e1788e4d78e3037a2ff9.MainActivity
+BKE.MainActivity, BKE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50e12ee4bd292e1788e4d78e3037a2ff9.MainActivity
+BKE.MainActivity;md50e12ee4bd292e1788e4d78e3037a2ff9.MainActivity
+bke.MainActivity;md50e12ee4bd292e1788e4d78e3037a2ff9.MainActivity
+BKE.BKE_Activity, BKE;md50e12ee4bd292e1788e4d78e3037a2ff9.BKE_Activity
+BKE.BKE_Activity, BKE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50e12ee4bd292e1788e4d78e3037a2ff9.BKE_Activity
+BKE.BKE_Activity;md50e12ee4bd292e1788e4d78e3037a2ff9.BKE_Activity
+bke.BKE_Activity;md50e12ee4bd292e1788e4d78e3037a2ff9.BKE_Activity

@@ -1,0 +1,16 @@
+C:\Users\terence\Documents\Projects\ConsoleOutput\ConsoleOutput\bin\Debug\ConsoleOutput.dll
+C:\Users\terence\Documents\Projects\ConsoleOutput\ConsoleOutput\bin\Debug\ConsoleOutput.pdb
+C:\Users\terence\Documents\Projects\ConsoleOutput\ConsoleOutput\bin\Debug\com.companyname.consoleoutput.apk
+C:\Users\terence\Documents\Projects\ConsoleOutput\ConsoleOutput\bin\Debug\com.companyname.consoleoutput-Signed.apk
+C:\Users\terence\Documents\Projects\ConsoleOutput\ConsoleOutput\obj\Debug\ConsoleOutput.dll
+C:\Users\terence\Documents\Projects\ConsoleOutput\ConsoleOutput\obj\Debug\ConsoleOutput.pdb
+C:\Users\terence\Documents\Projects\ConsoleOutput\ConsoleOutput\obj\Debug\android\bin\com.companyname.consoleoutput.apk
+C:\Users\terence\Documents\Projects\ConsoleOutput\ConsoleOutput\obj\Debug\res\layout\main.xml
+C:\Users\terence\Documents\Projects\ConsoleOutput\ConsoleOutput\obj\Debug\res\values\strings.xml
+C:\Users\terence\Documents\Projects\ConsoleOutput\ConsoleOutput\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\terence\Documents\Projects\ConsoleOutput\ConsoleOutput\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\terence\Documents\Projects\ConsoleOutput\ConsoleOutput\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\terence\Documents\Projects\ConsoleOutput\ConsoleOutput\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\terence\Documents\Projects\ConsoleOutput\ConsoleOutput\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\terence\Documents\Projects\ConsoleOutput\ConsoleOutput\obj\Debug\R.cs.flag
+C:\Users\terence\Documents\Projects\ConsoleOutput\ConsoleOutput\obj\Debug\uploadflags.txt

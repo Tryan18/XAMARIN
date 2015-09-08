@@ -1,0 +1,6 @@
+C:\Users\terence\Documents\Projects\Robot\Robot\obj\Debug\assemblies\Robot.dll
+C:\Users\terence\Documents\Projects\Robot\Robot\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\terence\Documents\Projects\Robot\Robot\obj\Debug\assemblies\mscorlib.dll
+C:\Users\terence\Documents\Projects\Robot\Robot\obj\Debug\assemblies\System.Core.dll
+C:\Users\terence\Documents\Projects\Robot\Robot\obj\Debug\assemblies\System.dll
+C:\Users\terence\Documents\Projects\Robot\Robot\obj\Debug\assemblies\System.Xml.dll

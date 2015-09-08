@@ -1,0 +1,8 @@
+FireStorm.MainActivity, FireStorm;md50b7fa454a5d2f2dbfa3f14ed4f1506bd.MainActivity
+FireStorm.MainActivity, FireStorm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50b7fa454a5d2f2dbfa3f14ed4f1506bd.MainActivity
+FireStorm.MainActivity;md50b7fa454a5d2f2dbfa3f14ed4f1506bd.MainActivity
+firestorm.MainActivity;md50b7fa454a5d2f2dbfa3f14ed4f1506bd.MainActivity
+FireStorm.BattlefieldActivity, FireStorm;md50b7fa454a5d2f2dbfa3f14ed4f1506bd.BattlefieldActivity
+FireStorm.BattlefieldActivity, FireStorm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50b7fa454a5d2f2dbfa3f14ed4f1506bd.BattlefieldActivity
+FireStorm.BattlefieldActivity;md50b7fa454a5d2f2dbfa3f14ed4f1506bd.BattlefieldActivity
+firestorm.BattlefieldActivity;md50b7fa454a5d2f2dbfa3f14ed4f1506bd.BattlefieldActivity
