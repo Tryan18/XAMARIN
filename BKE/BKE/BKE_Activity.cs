@@ -16,6 +16,8 @@ namespace BKE
 	[Activity (Label = "BKE_Activity")]			
 	public class BKE_Activity : Activity
 	{
+		private CustomSize screen_size = Util.DetectScreenSize ();
+
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
@@ -28,15 +30,34 @@ namespace BKE
 
 		void Start ()
 		{
-			
-			int id = this.getResources().getIdentifier("gameover", "drawable", getPackageName());
-			ImageView imageView = new ImageView(this);
-			LinearLayout.LayoutParams vp = 
-				new LinearLayout.LayoutParams(LayoutParams.WRAP_CONTENT, 
-					LayoutParams.WRAP_CONTENT);
-			imageView.setLayoutParams(vp);        
-			imageView.setImageResource(id);        
-			someLinearLayout.addView(imageView); 
+			LinearLayout LL = FindViewById<LinearLayout> (Resource.Id.ll_window);
+
+			//int x = 0;
+			//int y = 0;
+			int width = screen_size.Width / 3;
+			int height = screen_size.Height / 3;
+
+			for (int i = 0; i < 3; i++) 
+			{
+				for (int j = 0; j < 3; j++) 
+				{
+					int id = Resources.GetIdentifier ("blue_circle", "drawable", this.PackageName);
+					ImageView imageView = new ImageView (this);
+					FrameLayout.LayoutParams vglp = new FrameLayout.LayoutParams(width,height);
+					//vglp.LeftMargin = j * width;
+					//vglp.TopMargin = i * height;
+					//vglp.SetMargins (j * width, i * height, 0, 0);
+					imageView.SetScaleType (ImageView.ScaleType.FitXy);
+					imageView.LayoutParameters = vglp; 
+					imageView.SetImageResource (id); 
+
+
+					LL.AddView (imageView);
+					//x += width;
+				}
+				//x = 0;
+				//y += height;
+			}
 		}
 	}
 }

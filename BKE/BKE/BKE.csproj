@@ -48,6 +48,8 @@
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="BKE_Activity.cs" />
+    <Compile Include="Util.cs" />
+    <Compile Include="CustomSize.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -63,6 +65,8 @@
     <AndroidResource Include="Resources\drawable-xxhdpi\Icon.png" />
     <AndroidResource Include="Resources\drawable-xxxhdpi\Icon.png" />
     <AndroidResource Include="Resources\layout\BKE_Layout.axml" />
+    <AndroidResource Include="Resources\drawable-xhdpi\blue_circle.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\red_x.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
 </Project>

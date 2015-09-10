@@ -1,0 +1,6 @@
+C:\Users\terence\Documents\Projects\Auto\Auto\obj\Debug\assemblies\Auto.dll
+C:\Users\terence\Documents\Projects\Auto\Auto\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\terence\Documents\Projects\Auto\Auto\obj\Debug\assemblies\mscorlib.dll
+C:\Users\terence\Documents\Projects\Auto\Auto\obj\Debug\assemblies\System.Core.dll
+C:\Users\terence\Documents\Projects\Auto\Auto\obj\Debug\assemblies\System.dll
+C:\Users\terence\Documents\Projects\Auto\Auto\obj\Debug\assemblies\System.Xml.dll

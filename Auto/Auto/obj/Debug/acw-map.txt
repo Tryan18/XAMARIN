@@ -1,0 +1,4 @@
+Auto.MainActivity, Auto;md566d7f38b38d9e32558e89d515d806373.MainActivity
+Auto.MainActivity, Auto, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md566d7f38b38d9e32558e89d515d806373.MainActivity
+Auto.MainActivity;md566d7f38b38d9e32558e89d515d806373.MainActivity
+auto.MainActivity;md566d7f38b38d9e32558e89d515d806373.MainActivity

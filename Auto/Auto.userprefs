@@ -1,0 +1,31 @@
+﻿<Properties StartupItem="Auto\Auto.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Auto\BMW.cs">
+    <Files>
+      <File FileName="Auto\Auto.cs" Line="14" Column="3" />
+      <File FileName="Auto\BMW.cs" Line="12" Column="4" />
+      <File FileName="Auto\AUDI.cs" Line="5" Column="34" />
+      <File FileName="Auto\MainActivity.cs" Line="40" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Auto" expanded="True">
+            <Node name="Auto" expanded="True">
+              <Node name="BMW.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="Auto" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
