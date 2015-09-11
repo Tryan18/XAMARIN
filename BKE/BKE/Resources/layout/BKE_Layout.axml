@@ -6,4 +6,11 @@
     android:minWidth="25px"
     android:minHeight="25px"
     android:id="@+id/ll_window"
-    android:showDividers="middle" />
+    android:showDividers="middle">
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/imageView_background"
+        android:scaleType="fitXY" />
+</LinearLayout>

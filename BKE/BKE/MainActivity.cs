@@ -12,10 +12,12 @@ namespace BKE
 	[Activity (Label = "BKE", MainLauncher = true, Icon = "@drawable/icon")]
 	public class MainActivity : Activity
 	{
+		public static Context context;
+
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
-
+			context = this.BaseContext;
 			// Set our view from the "main" layout resource
 			SetContentView (Resource.Layout.Main);
 			Util.SetDisplayMetrics (Resources.DisplayMetrics);

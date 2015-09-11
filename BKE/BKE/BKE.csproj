@@ -50,6 +50,7 @@
     <Compile Include="BKE_Activity.cs" />
     <Compile Include="Util.cs" />
     <Compile Include="CustomSize.cs" />
+    <Compile Include="Blok.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
