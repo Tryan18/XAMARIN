@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutVoorbeeld", "LayoutVoorbeeld\LayoutVoorbeeld.csproj", "{D066F97D-30C1-41B7-ACAE-518D64958D93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutVoorbeeld.UITests", "LayoutVoorbeeld.UITests\LayoutVoorbeeld.UITests.csproj", "{779208E3-473A-4259-8C87-62F4B28EB2F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{779208E3-473A-4259-8C87-62F4B28EB2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779208E3-473A-4259-8C87-62F4B28EB2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779208E3-473A-4259-8C87-62F4B28EB2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779208E3-473A-4259-8C87-62F4B28EB2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D066F97D-30C1-41B7-ACAE-518D64958D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D066F97D-30C1-41B7-ACAE-518D64958D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D066F97D-30C1-41B7-ACAE-518D64958D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D066F97D-30C1-41B7-ACAE-518D64958D93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

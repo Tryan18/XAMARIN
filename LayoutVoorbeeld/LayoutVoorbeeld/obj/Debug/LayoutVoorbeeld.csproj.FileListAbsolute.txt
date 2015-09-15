@@ -1,0 +1,17 @@
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\bin\Debug\LayoutVoorbeeld.dll
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\bin\Debug\LayoutVoorbeeld.pdb
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\bin\Debug\com.companyname.layoutvoorbeeld.apk
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\bin\Debug\com.companyname.layoutvoorbeeld-Signed.apk
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\obj\Debug\LayoutVoorbeeld.dll
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\obj\Debug\LayoutVoorbeeld.pdb
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\obj\Debug\android\bin\com.companyname.layoutvoorbeeld.apk
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\obj\Debug\res\layout\main.xml
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\obj\Debug\res\values\strings.xml
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\obj\Debug\R.cs.flag
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\obj\Debug\uploadflags.txt
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\obj\Debug\res\layout\testlayout.xml

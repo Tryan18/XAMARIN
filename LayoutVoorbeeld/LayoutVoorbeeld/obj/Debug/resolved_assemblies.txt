@@ -1,0 +1,6 @@
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\obj\Debug\assemblies\LayoutVoorbeeld.dll
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\obj\Debug\assemblies\mscorlib.dll
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\obj\Debug\assemblies\System.Core.dll
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\obj\Debug\assemblies\System.dll
+C:\Users\terence\Documents\Projects\LayoutVoorbeeld\LayoutVoorbeeld\obj\Debug\assemblies\System.Xml.dll

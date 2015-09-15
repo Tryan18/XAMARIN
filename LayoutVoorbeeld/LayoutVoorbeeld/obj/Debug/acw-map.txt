@@ -1,0 +1,8 @@
+LayoutVoorbeeld.MainActivity, LayoutVoorbeeld;md50bb2a9ecb1d55ef0964e9016f9920c15.MainActivity
+LayoutVoorbeeld.MainActivity, LayoutVoorbeeld, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50bb2a9ecb1d55ef0964e9016f9920c15.MainActivity
+LayoutVoorbeeld.MainActivity;md50bb2a9ecb1d55ef0964e9016f9920c15.MainActivity
+layoutvoorbeeld.MainActivity;md50bb2a9ecb1d55ef0964e9016f9920c15.MainActivity
+LayoutVoorbeeld.TestActivity, LayoutVoorbeeld;md50bb2a9ecb1d55ef0964e9016f9920c15.TestActivity
+LayoutVoorbeeld.TestActivity, LayoutVoorbeeld, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50bb2a9ecb1d55ef0964e9016f9920c15.TestActivity
+LayoutVoorbeeld.TestActivity;md50bb2a9ecb1d55ef0964e9016f9920c15.TestActivity
+layoutvoorbeeld.TestActivity;md50bb2a9ecb1d55ef0964e9016f9920c15.TestActivity

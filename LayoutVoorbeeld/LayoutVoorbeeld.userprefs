@@ -1,0 +1,34 @@
+﻿<Properties StartupItem="LayoutVoorbeeld\LayoutVoorbeeld.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="LayoutVoorbeeld\MainActivity.cs" Line="26" Column="64" />
+      <File FileName="LayoutVoorbeeld\TestActivity.cs" Line="27" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LayoutVoorbeeld" expanded="True">
+            <Node name="LayoutVoorbeeld" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True">
+                  <Node name="TestLayout.axml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="LayoutVoorbeeld" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LayoutVoorbeeld AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
