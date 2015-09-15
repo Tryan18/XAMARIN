@@ -1,0 +1,6 @@
+C:\Users\terence\Documents\Projects\Robot_stratenplan\Robot_stratenplan\obj\Debug\assemblies\Robot_stratenplan.dll
+C:\Users\terence\Documents\Projects\Robot_stratenplan\Robot_stratenplan\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\terence\Documents\Projects\Robot_stratenplan\Robot_stratenplan\obj\Debug\assemblies\mscorlib.dll
+C:\Users\terence\Documents\Projects\Robot_stratenplan\Robot_stratenplan\obj\Debug\assemblies\System.Core.dll
+C:\Users\terence\Documents\Projects\Robot_stratenplan\Robot_stratenplan\obj\Debug\assemblies\System.dll
+C:\Users\terence\Documents\Projects\Robot_stratenplan\Robot_stratenplan\obj\Debug\assemblies\System.Xml.dll

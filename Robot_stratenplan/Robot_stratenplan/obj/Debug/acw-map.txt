@@ -1,0 +1,4 @@
+Robot_stratenplan.MainActivity, Robot_stratenplan;md5896ca0e22796c5743a23c8126685ea95.MainActivity
+Robot_stratenplan.MainActivity, Robot_stratenplan, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5896ca0e22796c5743a23c8126685ea95.MainActivity
+Robot_stratenplan.MainActivity;md5896ca0e22796c5743a23c8126685ea95.MainActivity
+robot_stratenplan.MainActivity;md5896ca0e22796c5743a23c8126685ea95.MainActivity

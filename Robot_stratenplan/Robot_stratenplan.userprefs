@@ -1,0 +1,31 @@
+﻿<Properties StartupItem="Robot_stratenplan\Robot_stratenplan.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Robot_stratenplan\Stratenplan.cs">
+    <Files>
+      <File FileName="Robot_stratenplan\MainActivity.cs" Line="43" Column="57" />
+      <File FileName="Robot_stratenplan\Stratenplan.cs" Line="12" Column="50" />
+      <File FileName="Robot_stratenplan\Robot.cs" Line="26" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Robot_stratenplan" expanded="True">
+            <Node name="Robot_stratenplan" expanded="True">
+              <Node name="Stratenplan.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="Robot_stratenplan" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Robot__stratenplan AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
