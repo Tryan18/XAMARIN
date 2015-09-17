@@ -1,0 +1,16 @@
+C:\Users\terence\Documents\Projects\DynamicViewAdder\DynamicViewAdder\bin\Debug\DynamicViewAdder.dll
+C:\Users\terence\Documents\Projects\DynamicViewAdder\DynamicViewAdder\bin\Debug\DynamicViewAdder.pdb
+C:\Users\terence\Documents\Projects\DynamicViewAdder\DynamicViewAdder\bin\Debug\com.companyname.dynamicviewadder.apk
+C:\Users\terence\Documents\Projects\DynamicViewAdder\DynamicViewAdder\bin\Debug\com.companyname.dynamicviewadder-Signed.apk
+C:\Users\terence\Documents\Projects\DynamicViewAdder\DynamicViewAdder\obj\Debug\DynamicViewAdder.dll
+C:\Users\terence\Documents\Projects\DynamicViewAdder\DynamicViewAdder\obj\Debug\DynamicViewAdder.pdb
+C:\Users\terence\Documents\Projects\DynamicViewAdder\DynamicViewAdder\obj\Debug\android\bin\com.companyname.dynamicviewadder.apk
+C:\Users\terence\Documents\Projects\DynamicViewAdder\DynamicViewAdder\obj\Debug\res\layout\main.xml
+C:\Users\terence\Documents\Projects\DynamicViewAdder\DynamicViewAdder\obj\Debug\res\values\strings.xml
+C:\Users\terence\Documents\Projects\DynamicViewAdder\DynamicViewAdder\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\terence\Documents\Projects\DynamicViewAdder\DynamicViewAdder\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\terence\Documents\Projects\DynamicViewAdder\DynamicViewAdder\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\terence\Documents\Projects\DynamicViewAdder\DynamicViewAdder\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\terence\Documents\Projects\DynamicViewAdder\DynamicViewAdder\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\terence\Documents\Projects\DynamicViewAdder\DynamicViewAdder\obj\Debug\R.cs.flag
+C:\Users\terence\Documents\Projects\DynamicViewAdder\DynamicViewAdder\obj\Debug\uploadflags.txt

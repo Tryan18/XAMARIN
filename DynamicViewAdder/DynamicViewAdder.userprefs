@@ -1,0 +1,33 @@
+﻿<Properties StartupItem="DynamicViewAdder\DynamicViewAdder.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Fast-Emulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DynamicViewAdder\MainActivity.cs">
+    <Files>
+      <File FileName="DynamicViewAdder\MainActivity.cs" Line="44" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DynamicViewAdder" expanded="True">
+            <Node name="DynamicViewAdder" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True">
+                  <Node name="Main.axml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="DynamicViewAdder" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DynamicViewAdder AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

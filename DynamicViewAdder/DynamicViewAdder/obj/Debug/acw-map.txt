@@ -1,0 +1,4 @@
+DynamicViewAdder.MainActivity, DynamicViewAdder;md5040aa8011f470e6b641f10202824d624.MainActivity
+DynamicViewAdder.MainActivity, DynamicViewAdder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5040aa8011f470e6b641f10202824d624.MainActivity
+DynamicViewAdder.MainActivity;md5040aa8011f470e6b641f10202824d624.MainActivity
+dynamicviewadder.MainActivity;md5040aa8011f470e6b641f10202824d624.MainActivity

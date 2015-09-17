@@ -1,6 +1,6 @@
-C:\Users\terence\Documents\Projects\FireStorm\FireStorm\obj\Debug\assemblies\FireStorm.dll
-C:\Users\terence\Documents\Projects\FireStorm\FireStorm\obj\Debug\assemblies\Mono.Android.dll
-C:\Users\terence\Documents\Projects\FireStorm\FireStorm\obj\Debug\assemblies\mscorlib.dll
-C:\Users\terence\Documents\Projects\FireStorm\FireStorm\obj\Debug\assemblies\System.Core.dll
-C:\Users\terence\Documents\Projects\FireStorm\FireStorm\obj\Debug\assemblies\System.dll
-C:\Users\terence\Documents\Projects\FireStorm\FireStorm\obj\Debug\assemblies\System.Xml.dll
+C:\Users\terence\Documents\Projects\XAMARIN\FireStorm\FireStorm\obj\Debug\assemblies\FireStorm.dll
+C:\Users\terence\Documents\Projects\XAMARIN\FireStorm\FireStorm\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\terence\Documents\Projects\XAMARIN\FireStorm\FireStorm\obj\Debug\assemblies\mscorlib.dll
+C:\Users\terence\Documents\Projects\XAMARIN\FireStorm\FireStorm\obj\Debug\assemblies\System.Core.dll
+C:\Users\terence\Documents\Projects\XAMARIN\FireStorm\FireStorm\obj\Debug\assemblies\System.dll
+C:\Users\terence\Documents\Projects\XAMARIN\FireStorm\FireStorm\obj\Debug\assemblies\System.Xml.dll
