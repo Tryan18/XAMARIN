@@ -5,12 +5,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BKE", "BKE\BKE.csproj", "{C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BKE.UITests", "BKE.UITests\BKE.UITests.csproj", "{AC5860EC-A6B2-4681-A255-785312514AE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{1AB0D610-9FFD-43C0-9845-5C6FFBF8B56E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AB0D610-9FFD-43C0-9845-5C6FFBF8B56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB0D610-9FFD-43C0-9845-5C6FFBF8B56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB0D610-9FFD-43C0-9845-5C6FFBF8B56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB0D610-9FFD-43C0-9845-5C6FFBF8B56E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AC5860EC-A6B2-4681-A255-785312514AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AC5860EC-A6B2-4681-A255-785312514AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC5860EC-A6B2-4681-A255-785312514AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU

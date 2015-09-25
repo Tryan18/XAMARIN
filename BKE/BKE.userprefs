@@ -2,31 +2,11 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.56.101:5555" />
   <MonoDevelop.Ide.Workbench ActiveDocument="BKE\BKE_Activity.cs">
     <Files>
-      <File FileName="BKE\MainActivity.cs" Line="20" Column="31" />
-      <File FileName="BKE\BKE_Activity.cs" Line="93" Column="37" />
-      <File FileName="BKE\Blok.cs" Line="74" Column="4" />
-      <File FileName="BKE\Util.cs" Line="25" Column="41" />
+      <File FileName="BKE\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="BKE\BKE_Activity.cs" Line="7" Column="19" />
+      <File FileName="BKE\Blok.cs" Line="13" Column="10" />
+      <File FileName="Utils\CustomSize.cs" Line="1" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="BKE" expanded="True">
-            <Node name="BKE" expanded="True">
-              <Node name="Resources" expanded="True" />
-              <Node name="BKE_Activity.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
-      <Pad Id="MonoDevelop.NUnit.TestPad">
-        <State name="__root__">
-          <Node name="BKE" expanded="True" selected="True" />
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

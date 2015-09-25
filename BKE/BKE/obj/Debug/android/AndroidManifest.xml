@@ -8,7 +8,7 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <activity android:label="BKE_Activity" android:name="md50e12ee4bd292e1788e4d78e3037a2ff9.BKE_Activity" />
+    <activity android:label="BKE_Activity" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" android:name="md50e12ee4bd292e1788e4d78e3037a2ff9.BKE_Activity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.bke.mono.MonoRuntimeProvider.__mono_init__" />
     <receiver android:name="mono.android.Seppuku">
       <intent-filter>

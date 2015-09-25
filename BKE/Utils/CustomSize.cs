@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BKE
+namespace Utils
 {
 	public class CustomSize
 	{

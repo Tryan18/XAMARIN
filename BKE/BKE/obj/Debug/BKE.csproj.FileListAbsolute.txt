@@ -34,3 +34,6 @@ C:\Users\terence\Documents\Projects\XAMARIN\BKE\BKE\obj\Debug\res\drawable-xhdpi
 C:\Users\terence\Documents\Projects\XAMARIN\BKE\BKE\obj\Debug\res\drawable-xhdpi\red_x.png
 C:\Users\terence\Documents\Projects\XAMARIN\BKE\BKE\obj\Debug\R.cs.flag
 C:\Users\terence\Documents\Projects\XAMARIN\BKE\BKE\obj\Debug\uploadflags.txt
+C:\Users\terence\Documents\Projects\XAMARIN\BKE\BKE\obj\Debug\BKE.csprojResolveAssemblyReference.cache
+C:\Users\terence\Documents\Projects\XAMARIN\BKE\BKE\bin\Debug\Utils.dll
+C:\Users\terence\Documents\Projects\XAMARIN\BKE\BKE\bin\Debug\Utils.pdb

@@ -11,10 +11,11 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.Graphics;
+using Utils;
 
 namespace BKE
 {
-	[Activity (Label = "BKE_Activity")]			
+	[Activity (Label = "BKE_Activity", Theme="@android:style/Theme.Black.NoTitleBar.Fullscreen")]			
 	public class BKE_Activity : Activity
 	{
 		private CustomSize screen_size;

@@ -1,0 +1,10 @@
+C:\Users\terence\Documents\Projects\XAMARIN\BKE\Utils\bin\Debug\Utils.dll
+C:\Users\terence\Documents\Projects\XAMARIN\BKE\Utils\bin\Debug\Utils.pdb
+C:\Users\terence\Documents\Projects\XAMARIN\BKE\Utils\bin\Debug\Utils.Utils.apk
+C:\Users\terence\Documents\Projects\XAMARIN\BKE\Utils\bin\Debug\Utils.Utils-Signed.apk
+C:\Users\terence\Documents\Projects\XAMARIN\BKE\Utils\obj\Debug\Utils.dll
+C:\Users\terence\Documents\Projects\XAMARIN\BKE\Utils\obj\Debug\Utils.pdb
+C:\Users\terence\Documents\Projects\XAMARIN\BKE\Utils\obj\Debug\android\bin\Utils.Utils.apk
+C:\Users\terence\Documents\Projects\XAMARIN\BKE\Utils\obj\Debug\res\values\strings.xml
+C:\Users\terence\Documents\Projects\XAMARIN\BKE\Utils\obj\Debug\R.cs.flag
+C:\Users\terence\Documents\Projects\XAMARIN\BKE\Utils\obj\Debug\uploadflags.txt
