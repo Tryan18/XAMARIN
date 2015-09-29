@@ -1,0 +1,7 @@
+C:\Users\terence\Documents\Projects\XAMARIN\DrawExample\DrawExample\obj\Debug\assemblies\DrawExample.dll
+C:\Users\terence\Documents\Projects\XAMARIN\DrawExample\DrawExample\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\terence\Documents\Projects\XAMARIN\DrawExample\DrawExample\obj\Debug\assemblies\mscorlib.dll
+C:\Users\terence\Documents\Projects\XAMARIN\DrawExample\DrawExample\obj\Debug\assemblies\System.Core.dll
+C:\Users\terence\Documents\Projects\XAMARIN\DrawExample\DrawExample\obj\Debug\assemblies\System.dll
+C:\Users\terence\Documents\Projects\XAMARIN\DrawExample\DrawExample\obj\Debug\assemblies\System.Xml.dll
+C:\Users\terence\Documents\Projects\XAMARIN\DrawExample\DrawExample\obj\Debug\assemblies\Utils.dll

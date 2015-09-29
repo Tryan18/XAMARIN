@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawExample", "DrawExample\DrawExample.csproj", "{5940372D-0FAC-4DBF-B980-BA821A5A29B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawExample.UITests", "DrawExample.UITests\DrawExample.UITests.csproj", "{69ADEDE6-1012-4494-8F5D-E440A79E11C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5940372D-0FAC-4DBF-B980-BA821A5A29B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5940372D-0FAC-4DBF-B980-BA821A5A29B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5940372D-0FAC-4DBF-B980-BA821A5A29B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5940372D-0FAC-4DBF-B980-BA821A5A29B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69ADEDE6-1012-4494-8F5D-E440A79E11C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69ADEDE6-1012-4494-8F5D-E440A79E11C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69ADEDE6-1012-4494-8F5D-E440A79E11C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69ADEDE6-1012-4494-8F5D-E440A79E11C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
