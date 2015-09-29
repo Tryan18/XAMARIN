@@ -1,0 +1,10 @@
+C:\Users\terence\Documents\Projects\AddAdvert\BU_entities\bin\Debug\BU_entities.dll
+C:\Users\terence\Documents\Projects\AddAdvert\BU_entities\bin\Debug\BU_entities.pdb
+C:\Users\terence\Documents\Projects\AddAdvert\BU_entities\bin\Debug\BU_entities.BU_entities.apk
+C:\Users\terence\Documents\Projects\AddAdvert\BU_entities\bin\Debug\BU_entities.BU_entities-Signed.apk
+C:\Users\terence\Documents\Projects\AddAdvert\BU_entities\obj\Debug\BU_entities.dll
+C:\Users\terence\Documents\Projects\AddAdvert\BU_entities\obj\Debug\BU_entities.pdb
+C:\Users\terence\Documents\Projects\AddAdvert\BU_entities\obj\Debug\android\bin\BU_entities.BU_entities.apk
+C:\Users\terence\Documents\Projects\AddAdvert\BU_entities\obj\Debug\res\values\strings.xml
+C:\Users\terence\Documents\Projects\AddAdvert\BU_entities\obj\Debug\R.cs.flag
+C:\Users\terence\Documents\Projects\AddAdvert\BU_entities\obj\Debug\uploadflags.txt

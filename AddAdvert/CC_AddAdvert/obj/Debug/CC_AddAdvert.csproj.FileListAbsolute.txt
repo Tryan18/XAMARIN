@@ -1,0 +1,13 @@
+C:\Users\terence\Documents\Projects\AddAdvert\CC_AddAdvert\bin\Debug\CC_AddAdvert.dll
+C:\Users\terence\Documents\Projects\AddAdvert\CC_AddAdvert\bin\Debug\CC_AddAdvert.pdb
+C:\Users\terence\Documents\Projects\AddAdvert\CC_AddAdvert\bin\Debug\CC_AddAdvert.CC_AddAdvert.apk
+C:\Users\terence\Documents\Projects\AddAdvert\CC_AddAdvert\bin\Debug\CC_AddAdvert.CC_AddAdvert-Signed.apk
+C:\Users\terence\Documents\Projects\AddAdvert\CC_AddAdvert\bin\Debug\BU_entities.dll
+C:\Users\terence\Documents\Projects\AddAdvert\CC_AddAdvert\bin\Debug\BU_entities.pdb
+C:\Users\terence\Documents\Projects\AddAdvert\CC_AddAdvert\obj\Debug\CC_AddAdvert.csprojResolveAssemblyReference.cache
+C:\Users\terence\Documents\Projects\AddAdvert\CC_AddAdvert\obj\Debug\CC_AddAdvert.dll
+C:\Users\terence\Documents\Projects\AddAdvert\CC_AddAdvert\obj\Debug\CC_AddAdvert.pdb
+C:\Users\terence\Documents\Projects\AddAdvert\CC_AddAdvert\obj\Debug\android\bin\CC_AddAdvert.CC_AddAdvert.apk
+C:\Users\terence\Documents\Projects\AddAdvert\CC_AddAdvert\obj\Debug\res\values\strings.xml
+C:\Users\terence\Documents\Projects\AddAdvert\CC_AddAdvert\obj\Debug\R.cs.flag
+C:\Users\terence\Documents\Projects\AddAdvert\CC_AddAdvert\obj\Debug\uploadflags.txt

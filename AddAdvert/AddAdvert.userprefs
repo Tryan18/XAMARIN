@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="AddAdvert\AddAdvert.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Fast-Emulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CC_AddAdvert\CC_AddAdvert.cs">
+    <Files>
+      <File FileName="AddAdvert\AddAdvertUI.cs" Line="1" Column="1" />
+      <File FileName="BU_entities\Campaign.cs" Line="1" Column="1" />
+      <File FileName="BU_entities\Advert.cs" Line="1" Column="1" />
+      <File FileName="BU_entities\Client.cs" Line="1" Column="1" />
+      <File FileName="CC_AddAdvert\CC_AddAdvert.cs" Line="11" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

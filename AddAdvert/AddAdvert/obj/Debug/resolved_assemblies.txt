@@ -1,0 +1,7 @@
+C:\Users\terence\Documents\Projects\AddAdvert\AddAdvert\obj\Debug\assemblies\AddAdvert.dll
+C:\Users\terence\Documents\Projects\AddAdvert\AddAdvert\obj\Debug\assemblies\CC_AddAdvert.dll
+C:\Users\terence\Documents\Projects\AddAdvert\AddAdvert\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\terence\Documents\Projects\AddAdvert\AddAdvert\obj\Debug\assemblies\mscorlib.dll
+C:\Users\terence\Documents\Projects\AddAdvert\AddAdvert\obj\Debug\assemblies\System.Core.dll
+C:\Users\terence\Documents\Projects\AddAdvert\AddAdvert\obj\Debug\assemblies\System.dll
+C:\Users\terence\Documents\Projects\AddAdvert\AddAdvert\obj\Debug\assemblies\System.Xml.dll

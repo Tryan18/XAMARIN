@@ -1,0 +1,4 @@
+AddAdvert.AddAdvertUI, AddAdvert;md5efa0428ee1788968d2c9b7c6a30f5825.AddAdvertUI
+AddAdvert.AddAdvertUI, AddAdvert, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5efa0428ee1788968d2c9b7c6a30f5825.AddAdvertUI
+AddAdvert.AddAdvertUI;md5efa0428ee1788968d2c9b7c6a30f5825.AddAdvertUI
+addadvert.AddAdvertUI;md5efa0428ee1788968d2c9b7c6a30f5825.AddAdvertUI
