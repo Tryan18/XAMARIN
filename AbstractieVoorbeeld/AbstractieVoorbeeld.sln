@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractieVoorbeeld", "AbstractieVoorbeeld\AbstractieVoorbeeld.csproj", "{D447AFF5-A9AC-4DEE-81F4-60D6C4C9B033}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandleUtil", "ExceptionHandleUtil\ExceptionHandleUtil.csproj", "{64A6BC00-A13C-4428-A3F9-4AB65514F828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64A6BC00-A13C-4428-A3F9-4AB65514F828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A6BC00-A13C-4428-A3F9-4AB65514F828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A6BC00-A13C-4428-A3F9-4AB65514F828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A6BC00-A13C-4428-A3F9-4AB65514F828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D447AFF5-A9AC-4DEE-81F4-60D6C4C9B033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D447AFF5-A9AC-4DEE-81F4-60D6C4C9B033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D447AFF5-A9AC-4DEE-81F4-60D6C4C9B033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D447AFF5-A9AC-4DEE-81F4-60D6C4C9B033}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

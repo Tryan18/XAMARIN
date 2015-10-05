@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="AbstractieVoorbeeld\AbstractieVoorbeeld.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractieVoorbeeld\MainActivity.cs">
+    <Files>
+      <File FileName="AbstractieVoorbeeld\MainActivity.cs" Line="25" Column="62" />
+      <File FileName="ExceptionHandleUtil\GeneralExceptionHandler.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
