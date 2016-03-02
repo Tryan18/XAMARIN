@@ -1,9 +1,0 @@
-C:\Users\terence\Documents\Projects\Crash_Down_2\Crash_Down_2\bin\Debug\Crash_Down_2.dll
-C:\Users\terence\Documents\Projects\Crash_Down_2\Crash_Down_2\bin\Debug\Crash_Down_2.pdb
-C:\Users\terence\Documents\Projects\Crash_Down_2\Crash_Down_2\bin\Debug\Xamarin.Forms.Core.dll
-C:\Users\terence\Documents\Projects\Crash_Down_2\Crash_Down_2\bin\Debug\Xamarin.Forms.Xaml.dll
-C:\Users\terence\Documents\Projects\Crash_Down_2\Crash_Down_2\bin\Debug\Xamarin.Forms.Core.xml
-C:\Users\terence\Documents\Projects\Crash_Down_2\Crash_Down_2\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\terence\Documents\Projects\Crash_Down_2\Crash_Down_2\obj\Debug\Crash_Down_2.csprojResolveAssemblyReference.cache
-C:\Users\terence\Documents\Projects\Crash_Down_2\Crash_Down_2\obj\Debug\Crash_Down_2.dll
-C:\Users\terence\Documents\Projects\Crash_Down_2\Crash_Down_2\obj\Debug\Crash_Down_2.pdb
