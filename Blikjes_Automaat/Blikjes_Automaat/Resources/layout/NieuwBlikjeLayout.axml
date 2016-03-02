@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/relativeLayout1">
+        <TextView
+            android:text="Naam :"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true" />
+        <EditText
+            android:inputType="textMultiLine"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/textView1"
+            android:id="@+id/editText1"
+            android:text="Cola"
+            android:background="#fff8f1f1"
+            android:layout_centerInParent="true"
+            android:textColor="#ff0f0808" />
+        <EditText
+            android:inputType="textMultiLine"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/textView2"
+            android:id="@+id/editText2"
+            android:layout_below="@+id/editText1"
+            android:background="#fff2eeee"
+            android:layout_marginTop="10dp"
+            android:layout_alignLeft="@+id/editText1"
+            android:textColor="#ff0f0d0d"
+            android:text="0,50" />
+        <TextView
+            android:text="Prijs : "
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView1"
+            android:id="@+id/textView2"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="false"
+            android:layout_centerVertical="true" />
+        <Button
+            android:text="OK"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/editText2"
+            android:id="@+id/button1"
+            android:layout_marginLeft="200dp" />
+    </RelativeLayout>
+</LinearLayout>
