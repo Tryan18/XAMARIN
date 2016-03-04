@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteNET", "SQLiteNET\SQLiteNET.csproj", "{392DE159-90E0-43C2-A44E-31B68C13CD2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CC", "CC\CC.csproj", "{D21CCA45-D98C-43B2-8B01-7A49B84FC0A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BU", "BU\BU.csproj", "{E4A0C8EE-27A1-4DFF-B56D-2471347DF02E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{392DE159-90E0-43C2-A44E-31B68C13CD2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392DE159-90E0-43C2-A44E-31B68C13CD2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392DE159-90E0-43C2-A44E-31B68C13CD2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392DE159-90E0-43C2-A44E-31B68C13CD2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D21CCA45-D98C-43B2-8B01-7A49B84FC0A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21CCA45-D98C-43B2-8B01-7A49B84FC0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21CCA45-D98C-43B2-8B01-7A49B84FC0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21CCA45-D98C-43B2-8B01-7A49B84FC0A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4A0C8EE-27A1-4DFF-B56D-2471347DF02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A0C8EE-27A1-4DFF-B56D-2471347DF02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A0C8EE-27A1-4DFF-B56D-2471347DF02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A0C8EE-27A1-4DFF-B56D-2471347DF02E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
