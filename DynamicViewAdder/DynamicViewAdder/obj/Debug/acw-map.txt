@@ -2,3 +2,7 @@ DynamicViewAdder.MainActivity, DynamicViewAdder;md5040aa8011f470e6b641f10202824d
 DynamicViewAdder.MainActivity, DynamicViewAdder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5040aa8011f470e6b641f10202824d624.MainActivity
 DynamicViewAdder.MainActivity;md5040aa8011f470e6b641f10202824d624.MainActivity
 dynamicviewadder.MainActivity;md5040aa8011f470e6b641f10202824d624.MainActivity
+DynamicViewAdder.CustomView, DynamicViewAdder;md5040aa8011f470e6b641f10202824d624.CustomView
+DynamicViewAdder.CustomView, DynamicViewAdder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5040aa8011f470e6b641f10202824d624.CustomView
+DynamicViewAdder.CustomView;md5040aa8011f470e6b641f10202824d624.CustomView
+dynamicviewadder.CustomView;md5040aa8011f470e6b641f10202824d624.CustomView

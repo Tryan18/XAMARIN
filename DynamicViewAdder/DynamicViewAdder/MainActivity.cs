@@ -14,7 +14,8 @@ namespace DynamicViewAdder
 	public class MainActivity : Activity
 	{
 		int count = 2;
-		List<Button> buttons = new List<Button>();
+		//List<Button> buttons = new List<Button>();
+		List<CustomView> customviews = new List<CustomView>();
 
 		protected override void OnCreate (Bundle bundle)
 		{
@@ -28,11 +29,15 @@ namespace DynamicViewAdder
 			Button btn_add = FindViewById<Button> (Resource.Id.btn_add);
 			
 			btn_add.Click += delegate {
-				Button b = new Button(this);
-				b.Text = "Button " +count.ToString();
-				buttons.Add(b);
-				LL_main.AddView(b);
+				//Button b = new Button(this);
+				//b.Text = "Button " +count.ToString();
+				//buttons.Add(b);
+				//LL_main.AddView(b);
 				count++;
+				CustomView cv = new CustomView(this.BaseContext);
+				customviews.Add(cv);
+				LL_main.AddView(cv);
+
 			};
 
 			Button btn_remove = FindViewById<Button> (Resource.Id.btn_remove);
@@ -40,9 +45,12 @@ namespace DynamicViewAdder
 			btn_remove.Click += delegate {	
 				if(count>2)
 				{
-					Button b = buttons[buttons.Count-1];
-					LL_main.RemoveView(b);
-					buttons.Remove(b);
+					//Button b = buttons[buttons.Count-1];
+					//LL_main.RemoveView(b);
+					//buttons.Remove(b);
+					CustomView cv = customviews[customviews.Count-1];
+					LL_main.RemoveView(cv);
+					customviews.Remove(cv);
 					count--;
 				}
 			};

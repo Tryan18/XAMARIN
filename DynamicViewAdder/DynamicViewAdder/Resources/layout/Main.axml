@@ -3,7 +3,10 @@
     android:id="@+id/LL_main"
     android:orientation="vertical"
     android:layout_width="fill_parent"
-    android:layout_height="fill_parent">
+    android:layout_height="fill_parent"
+    android:scrollbars="vertical"
+    android:overScrollMode="always"
+    android:verticalScrollbarPosition="right">
     <Button
         android:id="@+id/btn_add"
         android:layout_width="match_parent"
