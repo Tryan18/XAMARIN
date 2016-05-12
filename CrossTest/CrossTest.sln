@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossTest", "CrossTest\CrossTest.csproj", "{EDC19657-AA44-4542-AB0F-57F87B9B3666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossTest.Droid", "Droid\CrossTest.Droid.csproj", "{AEDACA6E-B086-4B19-AAA7-7BD30B8250C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEDACA6E-B086-4B19-AAA7-7BD30B8250C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEDACA6E-B086-4B19-AAA7-7BD30B8250C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEDACA6E-B086-4B19-AAA7-7BD30B8250C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEDACA6E-B086-4B19-AAA7-7BD30B8250C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC19657-AA44-4542-AB0F-57F87B9B3666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC19657-AA44-4542-AB0F-57F87B9B3666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC19657-AA44-4542-AB0F-57F87B9B3666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC19657-AA44-4542-AB0F-57F87B9B3666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
